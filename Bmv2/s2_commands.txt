@@ -1,0 +1,1 @@
+table_add pattern_verificaiton.ipv4_lpm pattern_verificaiton.ipv4_forward 10.0.0.3 => 00:00:00:00:00:10 2
